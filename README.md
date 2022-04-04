@@ -29,7 +29,7 @@ check out the Full Stack Jack Youtube Channel here :point_right: ![YouTube Chann
 
 
 
-### Prerequisist:
+### Prerequisites:
 >Have docker and docker-compose installed on your machine.
 
 ### Getting Started:
@@ -73,7 +73,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security-related issues, please email rick@wambo.com instead of using the issue tracker.
+If you discover any security-related issues, please email richard.t.rohrig@gmail.com instead of using the issue tracker.
 
 ## License
 
