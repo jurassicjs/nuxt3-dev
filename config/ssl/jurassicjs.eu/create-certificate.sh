@@ -5,4 +5,4 @@ openssl req -x509 -nodes -newkey rsa:2048 \
   -keyout privkey.pem \
   -out fullchain.pem \
   -days 3600 \
-  -subj '/C=DE/ST=NRW/L=Bielefeld/O=fullstackjack. KG/OU=fsj /CN=my.dev.nuclei.eu/emailAddress=admin@nuclei.eu'
+  -subj '/C=DE/ST=NRW/L=Bielefeld/O=fullstackjack. KG/OU=fsj /CN=jurassicjs.eu/emailAddress=admin@jurassicjs.eu'
