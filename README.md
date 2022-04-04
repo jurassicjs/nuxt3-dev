@@ -1,12 +1,10 @@
-#Nuxt Dev Env from Jurassic Js
-
 ## Hi there, Full Stack Jack here
 I'm glad you found this awesome repo. 
 
 If you'd like a walk through of how nuxt3 and in particular this set up 
-works, check out the Full Stack Jack video here 
+works, 
 
-:point_right: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFDF_U_uoKc6MhIZPZKo5CA?label=FullStackJack&style=social)
+check out the Full Stack Jack Youtube Channel here :point_right: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFDF_U_uoKc6MhIZPZKo5CA?label=FullStackJack&style=social)
 <a href="https://www.youtube.com/channel/UCFDF_U_uoKc6MhIZPZKo5CA">FullStackJack Youtube Channel</a>.
 
 ## Connect with me
@@ -25,15 +23,16 @@ works, check out the Full Stack Jack video here
 </a>
 </div>
 
-# Nuxt3 Docker Development Environment 
+# Nuxt3 Docker Development Environment from Jurassic Js
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 
 
-###Prerequisist:
+### Prerequisist:
 >Have docker and docker-compose installed on your machine.
 
+### Getting Started:
 >you'll also need to set up your /etc/hosts file to match whatever name you have for the server in the nginx setup found here:
 ```
 config/nginx/sites-dev/jurassicjs.eu/.conf
